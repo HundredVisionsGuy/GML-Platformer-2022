@@ -1,7 +1,9 @@
 {
   "resources": [
+    {"id":{"name":"oLighting","path":"objects/oLighting/oLighting.yy",},"order":5,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":1,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":3,},
+    {"id":{"name":"sLight","path":"sprites/sLight/sLight.yy",},"order":6,},
     {"id":{"name":"sPlayerIdle","path":"sprites/sPlayerIdle/sPlayerIdle.yy",},"order":1,},
     {"id":{"name":"sPlayerRunning","path":"sprites/sPlayerRunning/sPlayerRunning.yy",},"order":3,},
     {"id":{"name":"sPlayerJumping","path":"sprites/sPlayerJumping/sPlayerJumping.yy",},"order":5,},
@@ -9,6 +11,7 @@
     {"id":{"name":"scr_player_idle","path":"scripts/scr_player_idle/scr_player_idle.yy",},"order":1,},
     {"id":{"name":"scr_player_running","path":"scripts/scr_player_running/scr_player_running.yy",},"order":3,},
     {"id":{"name":"scr_player_jumping","path":"scripts/scr_player_jumping/scr_player_jumping.yy",},"order":5,},
+    {"id":{"name":"oLightParent","path":"objects/oLightParent/oLightParent.yy",},"order":4,},
     {"id":{"name":"scr_player_falling","path":"scripts/scr_player_falling/scr_player_falling.yy",},"order":7,},
     {"id":{"name":"scr_player_get_inputs","path":"scripts/scr_player_get_inputs/scr_player_get_inputs.yy",},"order":9,},
     {"id":{"name":"scr_check_state","path":"scripts/scr_check_state/scr_check_state.yy",},"order":11,},
